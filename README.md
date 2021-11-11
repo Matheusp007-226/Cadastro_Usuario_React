@@ -12,12 +12,12 @@ utiliza-se o JSON server para criar dados em JSON, funcionando como uma webserve
 Um CRUD completo via API axios
 
 ## Layout Mobile
-![Mobile 1](./image3.PNG) ![Mobile 2](./image4.PNG)
+![Mobile 1](./img3.PNG) ![Mobile 2](./img4.PNG)
 
 ## Layout Web
-!![layout 1](./image1.PNG)
+!![layout 1](./img1.PNG)
 
-!![layout 2](./image2.PNG)
+!![layout 2](./img2.PNG)
 
 # Tecnologias utilizadas
 ## Back end
