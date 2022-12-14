@@ -1,6 +1,10 @@
-# Cadastro_Usuario_React
+# Cadastro de usuários em react
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Matheusp007-226/IMC_JS/blob/main/LICENSE) 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://veexi.com.br/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-pimentel-santos/)
 
 # Sobre o projeto
 
